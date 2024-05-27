@@ -12,6 +12,8 @@ To run this app you, download all the HTML files in the repository and save them
 **Roadmap for future improvements:**
 
 1. Refactor this code to a React app, and create a React component for each section of the page: header, footer, home, pricing, blog, & signin.
+2. Remove Javascript code from HTML files and move to separate .js files.
+3. Remove styling from the HTML files and move to a CSS file.
 
 **License InformationMIT License
 
