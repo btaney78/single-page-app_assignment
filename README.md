@@ -15,7 +15,7 @@ To run this app you, download all the HTML files in the repository and save them
 2. Remove Javascript code from HTML files and move to separate .js files.
 3. Remove styling from the HTML files and move to a CSS file.
 
-**License InformationMIT License
+**License Information:** MIT License
 
 Copyright (c) 2024 Brian Taney
 
