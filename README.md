@@ -1,4 +1,4 @@
-# singlepageapp_assignmentt
+# single-page-app_assignmentt
 
 **Description:** In this assignment, we worked alongside a video to create a single-page app. Then we were tasked with making improvements.  I made the following improvemnts:
 1. Moved all links that were originally in the body of the index.HTML file to the nav bar.
